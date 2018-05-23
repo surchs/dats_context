@@ -3,6 +3,7 @@
     "sdo": "https://schema.org/",
     "identifier": {
       "@id": "sdo:identifier"
+      "@type": "sdo:Text"
     },
     "landingPage": {
         "@id": "sdo:url"

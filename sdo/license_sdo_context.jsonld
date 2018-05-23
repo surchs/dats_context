@@ -8,6 +8,10 @@
     "name": {
       "@id": "sdo:name",
       "@type": "sdo:Text"
+    },
+    "version": {
+        "@id": "sdo:version",
+        "@type": "sdo:Text"
     }
   }
 }

@@ -2,6 +2,10 @@
   "@context": {
     "sdo": "https://schema.org/",
     "Organization": "sdo:Organization",
+     "identifier": {
+      "@id": "sdo:identifier"
+      "@type": "sdo:Text"
+    },
     "name": "sdo:name",
     "postalAddress": "sdo:address",
     "roles": "sdo:roleNames"

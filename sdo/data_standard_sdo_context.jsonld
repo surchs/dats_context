@@ -2,6 +2,10 @@
   "@context": {
     "sdo": "https://schema.org/",
     "DataStandard": "sdo:CreativeWork",
+     "identifier": {
+      "@id": "sdo:identifier"
+      "@type": "sdo:Text"
+    },
     "name": {
       "@id": "sdo:name",
       "@type": "sdo:Text"

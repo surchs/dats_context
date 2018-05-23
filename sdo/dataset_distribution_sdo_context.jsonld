@@ -2,6 +2,10 @@
   "@context": {
     "sdo": "https://schema.org/",
     "DatasetDistribution": "sdo:DataDownload",
+    "identifier": {
+      "@id": "sdo:identifier"
+      "@type": "sdo:Text"
+    },
      "title": {
       "@id": "sdo:name",
       "@type": "sdo:Text"
