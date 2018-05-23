@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "sdo": "https://schema.org/",
+    "identifier": {
+      "@id": "sdo:identifier"
+    },
+    "landingPage": {
+        "@id": "sdo:url"
+    }
+  }
+}

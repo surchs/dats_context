@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "sdo": "https://schema.org/",
+    "identifier": {
+      "@id": "sdo:identifier"
+    },
+    "name": {
+      "@id": "sdo:name",
+      "@type": "sdo:Text"
+    },
+    "description": {
+      "@id": "sdo:description",
+      "@type": "sdo:Text"
+    }
+  }
+}
