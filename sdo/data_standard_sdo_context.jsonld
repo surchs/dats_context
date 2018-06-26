@@ -3,7 +3,7 @@
     "sdo": "https://schema.org/",
     "DataStandard": "sdo:CreativeWork",
      "identifier": {
-      "@id": "sdo:identifier"
+      "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
     "name": {

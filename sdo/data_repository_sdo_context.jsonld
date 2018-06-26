@@ -3,7 +3,7 @@
     "sdo": "https://schema.org/",
     "DataRepository": "sdo:DataCatalog",
     "identifier": {
-      "@id": "sdo:identifier"
+      "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
     "name": {

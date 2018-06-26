@@ -3,7 +3,7 @@
     "sdo": "https://schema.org/",
     "Dataset": "sdo:Dataset",
     "identifier": {
-      "@id": "sdo:identifier"
+      "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
     "title": {
