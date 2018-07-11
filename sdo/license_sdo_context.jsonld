@@ -1,7 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "License": "CreativeWork",
+    "License": "sdo:CreativeWork",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
