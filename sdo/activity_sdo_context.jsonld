@@ -1,6 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
+    "Activity": "sdo:Action",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"

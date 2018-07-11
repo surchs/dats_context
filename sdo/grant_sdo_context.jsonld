@@ -1,6 +1,8 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
+    "wsdo": "https://webschemas.org/"
+    "Grant": "wsdo:Grant",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
