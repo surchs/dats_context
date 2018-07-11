@@ -1,6 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
+    "Treatmet": "sdo:Thing",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"

@@ -1,7 +1,8 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-     "identifier": {
+    "TaxonomicInformation": "sdo:Thing",
+    "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
