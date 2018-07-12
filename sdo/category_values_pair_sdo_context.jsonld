@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "sdo": "https://schema.org/",
+    "BiologicalEntity": "sdo:Thing",
+    "category": {
+      "@id": "sdo:value",
+      "@type": "sdo:Text"
+    },
+    "categoryIRI": {
+      "@id": "sdo:url",
+      "@type": "sdo:URL"
+    }
+  }
+}

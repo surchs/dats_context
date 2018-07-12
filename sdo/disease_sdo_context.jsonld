@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "sdo": "https://schema.org/",
+    "Disease": "sdo:MedicalCondition",
+    "identifier": {
+      "@id": "sdo:identifier",
+      "@type": "sdo:Text"
+    },
+    "name": {
+      "@id": "sdo:name",
+      "@type": "sdo:Text"
+    }
+}
