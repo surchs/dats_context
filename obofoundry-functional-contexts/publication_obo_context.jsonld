@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@language": "en",
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "swo" : "http://www.ebi.ac.uk/swo/",
+    "Publication": "obo:IAO_0000311",
+    "identifier": {
+      "@id": "obo:IAO_0000577", 
+      "@type": "@id" 
+    },
+    "name": {
+      "@id": "obo:IAO_0000590"
+    },
+    "description": {
+      "@id": "obo:IAO_0000300"
+    },
+    "type": "obo:IAO_0000310",
+    "publicationVenue": "obo:IAO_0000013",
+    "authorList": "obo:IAO_0000321",
+    "authors": "obo:IAO_0000302",
+    "acknowledges" : {
+        "@id": "obo:IAO:0000324",
+        "@type":["obo:OBI_0000245","obo:NCBITaxon_9606","obo:OBI_0001942","obo:OBI_0001636"]
+    } ,
+    "licenses": {
+         "@id" : "obo:has_license",
+         "@type":  "swo:SWO_0000002"
+}
+  }
+}

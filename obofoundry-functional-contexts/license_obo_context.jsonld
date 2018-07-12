@@ -1,0 +1,26 @@
+{
+  "@context": {
+   "@version": 1.1,
+   "@language": "en",
+   "obo": "http://purl.obolibrary.org/obo/",
+   "xsd": "http://www.w3.org/2001/XMLSchema#",
+  "swo": "http://www.ebi.ac.uk/swo/",
+  "License": "swo:SWO_0000002 ",
+    "identifier": {
+      "@id": "obo:IAO_0000577", 
+      "@type": "@id" 
+    },
+    "name": {
+      "@id": "obo:IAO_0000590"
+    },
+    "description": {
+      "@id": "obo:IAO_0000300"
+    },
+    "version":"obo:IAO_0000129",
+    "creators": 
+            {
+            "@id" : "obo:TODO",
+            "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+        }
+  }
+}
