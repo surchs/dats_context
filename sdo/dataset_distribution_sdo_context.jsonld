@@ -19,6 +19,10 @@
       "@type": "sdo:DataCatalog"
     },
     "version": "sdo:version",
-    "licenses": "sdo:license"
+    "licenses": "sdo:license",
+    "access": {
+        "@id": "sdo:accessMode",
+        "@type": "Access"
+    }
   }
 }

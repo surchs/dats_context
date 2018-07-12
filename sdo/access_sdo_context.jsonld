@@ -7,7 +7,12 @@
       "@type": "sdo:Text"
     },
     "landingPage": {
-        "@id": "sdo:url"
+        "@id": "sdo:url",
+        "@type": "sdo:URL"
+    },
+    "accessURL": {
+        "@id": "sdo:contentUrl",
+        "@type": "sdo:URL"
     }
   }
 }

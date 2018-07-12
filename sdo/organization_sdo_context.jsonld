@@ -6,8 +6,16 @@
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
-    "name": "sdo:name",
-    "postalAddress": "sdo:address",
-    "roles": "sdo:roleNames"
+    "name": {
+        "@id": "sdo:name",
+        "@type": "sdo:Text"
+    },
+    "postalAddress": {
+        "@id": "sdo:address",
+        "@type": "sdo:Text"
+    },
+    "roles": {
+        "@id": "sdo:roleNames"
+    }
   }
 }
