@@ -26,6 +26,7 @@
     "isAbout": "sdo:about",
     "hasPart": "sdo:hasPart",
     "acknowledges": "sdo:funder",
-    "keywords": "sdo:keywords"
+    "keywords": "sdo:keywords",
+    "dimensions": "sdo:variableMeasured"
   }
 }
