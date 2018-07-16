@@ -10,8 +10,9 @@
       "@id": "sdo:name",
       "@type": "sdo:Text"
     },
-    "description": {
+    "description":{
         "@id": "sdo:description",
         "@type": "sdo:Text"
     }
+  }
 }

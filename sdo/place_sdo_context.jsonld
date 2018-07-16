@@ -17,13 +17,13 @@
     "postalAddress": {
         "@id": "sdo:address",
         "@type": "sdo:PostalAddress"
-    }
+    },
     "geometry": {
         "@id": "sdo:geospatiallyContains",
         "@type": "sdo:GeospatialGeometry"
-    }
+    },
     "coordinates": {
-         "@id": sdo:geo",
+         "@id": "sdo:geo",
          "@type": "sdo:GeoCoordinates"
     }
   }

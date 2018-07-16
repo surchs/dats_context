@@ -10,4 +10,5 @@
       "@id": "sdo:name",
       "@type": "sdo:Text"
     }
+  }
 }
