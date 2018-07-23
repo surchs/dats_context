@@ -2,7 +2,7 @@
   "@context": {
     "sdo": "https://schema.org/",
     "Organization": "sdo:Organization",
-     "identifier": {
+    "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
@@ -10,12 +10,17 @@
         "@id": "sdo:name",
         "@type": "sdo:Text"
     },
-    "postalAddress": {
+    "abbreviation": {
+        "@id": "sdo:name",
+        "@type": "sdo:Text"
+    },
+    "location": {
         "@id": "sdo:address",
         "@type": "sdo:Text"
     },
     "roles": {
-        "@id": "sdo:roleNames"
+        "@id": "sdo:roleName",
+        "@type": "sdo:Text"
     }
   }
 }
