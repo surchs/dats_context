@@ -1,6 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
+    "Identifier": "sdo:Thing",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"

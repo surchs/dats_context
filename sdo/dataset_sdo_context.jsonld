@@ -20,11 +20,11 @@
     "spatialCoverage": "sdo:spatialCoverage",
     "storedIn": {
         "@id": "sdo:includedInDataCatalog",
-        "@type": "sdo:DataRepository"
+        "@type": "DataRepository"
     },
     "distributions": {
       "@id": "sdo:distribution",
-      "type": "DatasetDistribution"
+      "@type": "DatasetDistribution"
     },
     "types": "sdo:keywords",
     "primaryPublications": "sdo:citation",
@@ -36,7 +36,10 @@
     },
     "licenses": "sdo:license",
     "isAbout": "sdo:about",
-    "hasPart": "sdo:hasPart",
+    "hasPart": {
+        "@id": "sdo:hasPart",
+        "@type": "Dataset"
+    },
     "acknowledges": "sdo:funder",
     "keywords": "sdo:keywords",
     "dimensions": "sdo:variableMeasured"

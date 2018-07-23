@@ -6,7 +6,7 @@
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
-     "title": {
+    "title": {
       "@id": "sdo:name",
       "@type": "sdo:Text"
     },
@@ -21,8 +21,12 @@
     "version": "sdo:version",
     "licenses": "sdo:license",
     "access": {
-        "@id": "sdo:accessMode",
-        "@type": "Access"
+      "@id": "sdo:accessMode",
+      "@type": "Access"
+    },
+    "size": {
+        "@id": "sdo:contentSize",
+        "@type": "sdo:Text"
     }
   }
 }
