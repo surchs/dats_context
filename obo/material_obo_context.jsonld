@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@language": "en",
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "Material": "obo:BFO_0000040",
+    "identifier": {
+      "@id": "obo:IAO_0000577",
+      "@type": "@id"
+    },
+    "name": {
+      "@id": "obo:IAO_0000590"
+    },
+    "description": {
+      "@id": "obo:IAO_0000300"
+    },
+    "roles": "obo:BFO_0000023",
+    "derivesFrom": {
+      "@id" : "obo:RO_0001000",
+      "@type" : "OBI_0100026"
+    },
+    "characteristics": {
+      "@id" : "obo:RO_0000086",
+      "@type" : "obo:quality"
+    },
+    "bearerOfDisease" : {
+      "@id" : "obo:RO_0000053",
+      "@type" : "obo:DOID_4"
+    },
+    "taxonomy" : "obo:RO_0002162",
+    "involvedInBiologicalEntity" : {
+      "@id": "obo:RO_0002331" ,
+      "@type" : ["GO_0008150","GO_0005575","GO_0003674","obo:DOID_4"]
+    },
+    "spatialCoverage": {
+      "@id":"obo:BFO_0000066",
+      "@type": "obo:BFO_0000029"
+    }
+  }
+}
