@@ -16,5 +16,13 @@
     },
     "licenses": "sdo:license",
     "version": "sdo:version"
+  },
+  "startDate": {
+    "id": "sdo:startTime",
+    "@type": "sdo:DateTime"
+  },
+  "endDate": {
+    "id": "sdo:endTime",
+    "@type": "sdo:DateTime"
   }
 }

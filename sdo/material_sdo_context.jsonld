@@ -1,6 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
+    "Material": "sdo:Thing",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
@@ -9,6 +10,11 @@
       "@id": "sdo:name",
       "@type": "sdo:Text"
     },
+    "description": {
+        "@id": "sdo:name",
+        "@type": "sdo:Text"
+    },
+    "spatialCoverage": "sdo:spatialCoverage",
     "roles": "sdo:roleName"
   }
 }
