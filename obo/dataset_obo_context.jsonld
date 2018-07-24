@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@language": "en",
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "swo": "http://www.ebi.ac.uk/swo/",
+    "Dataset": "obo:IAO_0000100",
+    "identifier": {
+      "@id": "obo:IAO_0000577",
+      "@type": "@id"
+    },
+    "name": {
+      "@id": "obo:IAO_0000590"
+    },
+    "description": {
+      "@id": "obo:IAO_0000300"
+    },
+    "title": {
+      "@id": "obo:OBI_0001622",
+      "@type": "obo:IAO_0000300"
+    },
+    "distributions": {
+      "@id": "obo:TODO -> distribution[missing term]",
+      "type": "obo:TODO -> DataDownload[missing term]"
+    },
+    "primaryPublications": "obo:IAO_0000301",
+    "citations": "obo:IAO_0000301",
+    "producedBy": {
+      "@id":"obo:RO_0003001",
+      "@type": ["OBI_0600013","OBI_0000066","OBI_0200000"]
+    },
+    "creators":
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    }
+  },
+  "licenses": {
+    "@id" : "obo:has_license",
+    "@type":  "swo:SWO_0000002"
+  },
+  "isAbout": "obo:IAO_0000136",
+  "hasPart": {
+    "@id":"obo:BFO_0000051",
+    "@type" : "obo:IAO_0000100"
+  },
+  "keywords": "obo:IAO_0000629",
+  "storedIn": {
+    "@id":"obo:TODO ->",
+    "@type": "obo:ERO_0001716"
+  },
+  "spatialCoverage": {
+    "@id":"obo:BFO_0000066",
+    "@type": "obo:BFO_0000029"
+  },
+  "dimensions" : {
+    "@id":"obo:BFO_0000051",
+    "@type":"obo:STATO_STATO_0000258"
+  },
+  "acknowledges" : {
+    "@id": "obo:IAO:0000324",
+    "@type":["obo:OBI_0000245","obo:NCBITaxon_9606","obo:OBI_0001942","obo:OBI_0001636"]
+  },
+  "version":"obo:IAO_0000129",
+  "dates" : {
+    "@id":"obo:RO_0002537",
+    "@type": "xsd:date"
+  },
+  "types" : "",
+  "availability" : "",
+  "refinement" : "",
+  "aggregation" : ""
+}

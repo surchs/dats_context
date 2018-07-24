@@ -1,14 +1,14 @@
 {
   "@context": {
-     "@version": 1.1,
+    "@version": 1.1,
     "@language": "en",
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "StudyGroup": "obo:STATO_0000193",
     "obo": "http://purl.obolibrary.org/obo/",
     "identifier": {
-      "@id": "obo:IAO_0000577", 
-      "@type": "@id" 
+      "@id": "obo:IAO_0000577",
+      "@type": "@id"
     },
     "name": {
       "@id": "obo:IAO_0000590"
@@ -17,12 +17,12 @@
       "@id": "obo:IAO_0000300"
     },
     "size": {
-        "@id" : "obo:has_size",
-        "@type":"xsd:integer"
+      "@id" : "obo:has_size",
+      "@type":"xsd:integer"
     },
     "members" : {
-         "@id":"obo:RO_0002351",
-         "@type": ["BFO_0000040","IAO_0000100"]
-    } 
+      "@id":"obo:RO_0002351",
+      "@type": ["BFO_0000040","IAO_0000100"]
+    }
   }
 }

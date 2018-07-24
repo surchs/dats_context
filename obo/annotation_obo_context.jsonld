@@ -4,18 +4,16 @@
     "@language": "en",
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "Organization": "obo:OBI_0000245",
+    "Annotation": "obo:TODO -> [unclear mapping]",
     "identifier": {
-      "@id": "obo:IAO_0000577", 
-      "@type": "@id" 
+      "@id": "obo:IAO_0000577",
+      "@type": "@id"
     },
     "name": {
       "@id": "obo:IAO_0000590"
     },
     "description": {
       "@id": "obo:IAO_0000300"
-    },
-    "postalAddress": "obo:IAO_0000422",
-    "roles": "obo:BFO_0000023"
+    }
   }
 }

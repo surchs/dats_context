@@ -7,8 +7,8 @@
     "geojson" : "https://purl.org/geojson/vocab#",
     "Place": "obo:BFO_0000029",
     "identifier": {
-      "@id": "obo:IAO_0000577", 
-      "@type": "@id" 
+      "@id": "obo:IAO_0000577",
+      "@type": "@id"
     },
     "name": {
       "@id": "obo:IAO_0000590"
@@ -16,7 +16,7 @@
     "description": {
       "@id": "obo:IAO_0000300"
     },
-    "geometry": "geojson:geometry", 
+    "geometry": "geojson:geometry",
     "coordinates": {
       "@container": "@list",
       "@id": "geojson:coordinates"
