@@ -4,7 +4,7 @@
     "Annotation": "sdo:Thing",
     "value": {
       "@id": "sdo:value",
-      "@type": [ "sdo:Text", "@sdo:Number" ]
+      "@type": "sdo:DataType"
     },
     "valueIRI": {
       "@id": "sdo:url",
