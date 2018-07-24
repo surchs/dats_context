@@ -15,13 +15,13 @@
       "@type": "sdo:Text"
     },
     "startDate": {
-        "id": "sdo:startTime",
-        "@type": "sdo:DateTime"
+      "id": "sdo:startTime",
+      "@type": "sdo:DateTime"
     },
     "endDate": {
-        "id": "sdo:endTime",
-        "@type": "sdo:DateTime"
-    }
+      "id": "sdo:endTime",
+      "@type": "sdo:DateTime"
+    },
     "location": "sdo:location",
     "performedBy": "sdo:agent"
   }
