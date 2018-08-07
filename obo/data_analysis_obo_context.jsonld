@@ -1,6 +1,6 @@
 {
   "@context": {
-    "obo": "https://schema.org/",
+    "obo": "http://purl.obolibrary.org/obo/",
     "DataAnalysis": "obo:OBI_0200000",
     "identifier": {
       "@id": "obo:IAO_0000577",
