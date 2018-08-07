@@ -60,7 +60,7 @@
   },
   "acknowledges" : {
     "@id": "obo:IAO:0000324",
-    "@type":["obo:OBI_0000245","obo:NCBITaxon_9606","obo:OBI_0001942","obo:OBI_0001636"]
+    "@type": "obo:OBI_0001942" 
   },
   "version":"obo:IAO_0000129",
   "dates" : {
