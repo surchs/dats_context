@@ -7,6 +7,14 @@ The list of missing terms, which we will request to the relevant ontologies are:
 - conformsTo (for dataset_distribution)
 - format (for dataset_distribution)
 - creators (for dataset)
+- in DATS.Dataset
+```
+ "distributions": {
+      "@id": "obo:TODO -> distribution[missing term]",
+      "type": "obo:TODO -> DataDownload[missing term]"
+    },
+   
+```
 
 
 Other issues:

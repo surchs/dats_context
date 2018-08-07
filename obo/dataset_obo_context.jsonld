@@ -20,10 +20,6 @@
       "@id": "obo:OBI_0001622",
       "@type": "obo:IAO_0000300"
     },
-    "distributions": {
-      "@id": "obo:TODO -> distribution[missing term]",
-      "type": "obo:TODO -> DataDownload[missing term]"
-    },
     "primaryPublications": "obo:IAO_0000301",
     "citations": "obo:IAO_0000301",
     "producedBy": "obo:RO_0003001",
