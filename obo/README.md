@@ -15,6 +15,13 @@ The list of missing terms, which we will request to the relevant ontologies are:
     },
    
 ```
+- in DATS.Dataset, a term for storedIn is missing from the OBO Foundry ontologies
+```
+"storedIn": {
+      "@id": "obo:TODO ->",
+      "@type": "obo:ERO_0001716"
+    }
+```
 
 
 Other issues:

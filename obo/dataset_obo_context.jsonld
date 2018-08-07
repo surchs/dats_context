@@ -33,10 +33,6 @@
       "@type": "obo:IAO_0000100"
     },
     "keywords": "obo:IAO_0000629",
-    "storedIn": {
-      "@id": "obo:TODO ->",
-      "@type": "obo:ERO_0001716"
-    },
     "spatialCoverage": {
       "@id": "obo:BFO_0000066",
       "@type": "obo:BFO_0000029"
