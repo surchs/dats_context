@@ -1,6 +1,5 @@
 {
   "@context": {
-    "@language": "en",
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "swo": "http://www.ebi.ac.uk/swo/",
