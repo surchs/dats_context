@@ -5,10 +5,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "swo": "http://www.ebi.ac.uk/swo/",
     "Dataset": "obo:IAO_0000100",
-    "identifier": {
-      "@id": "obo:IAO_0000577",
-      "@type": "@id"
-    },
+    "identifier": "obo:IAO_0000577",
     "name": {
       "@id": "obo:IAO_0000590"
     },
@@ -22,10 +19,6 @@
     "primaryPublications": "obo:IAO_0000301",
     "citations": "obo:IAO_0000301",
     "producedBy": "obo:RO_0003001",
-    "licenses": {
-      "@id": "obo:has_license",
-      "@type": "swo:SWO_0000002"
-    },
     "isAbout": "obo:IAO_0000136",
     "hasPart": {
       "@id": "obo:BFO_0000051",

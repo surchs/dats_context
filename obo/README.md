@@ -1,9 +1,52 @@
 This folder contains the context files for mapping DATS to the [OBO Foundry](http://www.obofoundry.org/) ontologies.
 
-We have identified some entities and properties that are not available within the OBO ontologies, and this has been indicated as ```TODO``` on the mapping files, until those terms are added to the relevant ontologies.
+We have identified some entities and properties that are not available within the OBO ontologies, and these are listed below. We will be submitting the request for these terms to the relevant ontologies.
 
 The list of missing terms, which we will request to the relevant ontologies are:
-- has_license (for dataset_distribution)
+
+- in DATS.Dataset and DATS.DatasetDistribution, the property to relate these entities to a license is not available in OBO ontologies:
+``` 
+"licenses": {
+      "@id": "obo:has_license",
+      "@type": "swo:SWO_0000002"
+    },
+```
+- in DATS.DatasetDistribution, the property ```size``` could not be mapped:
+
+```
+"size": {
+      "@id": "obo:TODOhas_size",
+      "@type": "xsd:integer"
+    },
+```
+
+- in DATS.DatasetDistribution, the property ```storedIn``` could not be mapped:
+
+```
+"storedIn": {
+      "@id": "obo:TODOstored_in",
+      "@type": "obo:ERO_0001716"
+    },
+```
+
+- in DATS.DatasetDistribution, the property ```qualifier``` could not be mapped:
+
+```
+"qualifier": {
+      "@id": "obo:TODO_conforms_to",
+      "@type": ""
+    }
+```
+
+- in DATS.DatasetDistribution, the property ```access``` could not be mapped:
+
+```
+ "access": {
+      "@id": "",
+      "@type": ""
+    },
+```
+
 - conformsTo (for dataset_distribution)
 - format (for dataset_distribution)
 - creators (for dataset)

@@ -4,11 +4,7 @@
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "swo": "http://www.ebi.ac.uk/swo/",
-    "DatasetDistribution": "obo:STATO_0000002",
-    "identifier": {
-      "@id": "obo:IAO_0000577",
-      "@type": "@id"
-    },
+    "identifier": "obo:IAO_0000577",
     "name": {
       "@id": "obo:IAO_0000590"
     },
@@ -16,19 +12,7 @@
       "@id": "obo:IAO_0000300"
     },
     "keywords": "obo:IAO_0000629",
-    "storedIn": {
-      "@id": "obo:TODOstored_in",
-      "@type": "obo:ERO_0001716"
-    },
-    "licenses": {
-      "@id": "obo:TODO[has_license]",
-      "@type": "swo:SWO_0000002"
-    },
     "version": "obo:IAO_0000129",
-    "size": {
-      "@id": "obo:TODOhas_size",
-      "@type": "xsd:integer"
-    },
     "unit": {
       "@id": "obo:IAO_0000039",
       "@type": "obo:UO_0000000"
@@ -37,10 +21,6 @@
       "@id": "obo:RO_0002537",
       "@type": "xsd:date"
     },
-    "access": {
-      "@id": "",
-      "@type": ""
-    },
     "conformsTo": {
       "@id": "obo:TODO_conforms_to",
       "@type": "obo:IAO_0000098"
@@ -48,10 +28,6 @@
     "format": {
       "@id": "obo:todo_format",
       "@type": "obo:IAO_0000098"
-    },
-    "qualifier": {
-      "@id": "obo:TODO_conforms_to",
-      "@type": ""
     }
   }
 }
