@@ -26,7 +26,6 @@
       "@id": "sdo:distribution",
       "@type": "DatasetDistribution"
     },
-    "types": "sdo:keywords",
     "primaryPublications": "sdo:citation",
     "citations": "sdo:citation",
     "producedBy": "sdo:producer",
@@ -41,7 +40,6 @@
         "@type": "Dataset"
     },
     "acknowledges": "sdo:funder",
-    "keywords": "sdo:keywords",
     "dimensions": "sdo:variableMeasured"
   }
 }
