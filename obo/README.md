@@ -131,4 +131,13 @@ cannot code
       "@type" : ["OBI_0001879","BFO_0000040","IAO_0000100"]
     }
 ```
+
+- DATS.DataType.platform
+
+```
+"platform" : {
+      "@id": "obo:RO_0000057",
+      "@type": ["obo:OBI_0000968", "obo:IAO_0000010", "OBI_0001879"]
+    },
+```
  
