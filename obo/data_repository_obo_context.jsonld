@@ -4,7 +4,7 @@
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "swo" : "http://www.ebi.ac.uk/swo/",
-    "DataRepository": ["obo:ERO_0001716","obo:IAO_0000579"],
+    "DataRepository": "obo:IAO_0000579",
     "identifier": {
       "@id": "obo:IAO_0000577",
       "@type": "@id"

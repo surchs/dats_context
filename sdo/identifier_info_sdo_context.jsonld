@@ -2,10 +2,7 @@
   "@context": {
     "sdo": "https://schema.org/",
     "Identifier": "sdo:Thing",
-    "identifier": {
-      "@id": "sdo:identifier",
-      "@type": "sdo:Text"
-    },
+    "identifier": "sdo:identifier",
     "identifierSource": {
        "@id": "sdo:Property",
        "@type": "sdo:Text"

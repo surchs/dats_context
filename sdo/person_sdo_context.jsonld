@@ -2,10 +2,7 @@
   "@context": {
     "sdo": "https://schema.org/",
     "Person": "sdo:Person",
-    "identifier": {
-      "@id": "sdo:identifier",
-      "@type": "sdo:Text"
-    },
+    "identifier": "sdo:identifier",
     "firstName": "sdo:givenName",
     "lastName": "sdo:familyName",
     "fullName": "sdo:name",
