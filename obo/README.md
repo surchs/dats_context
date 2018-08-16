@@ -76,6 +76,14 @@ The list of missing terms, which we will request to the relevant ontologies are:
     }
 ```
 
+- In DATS.Dimension:
+
+```
+"types": "obo:TODO",
+"datatypes" : "obo:TODO",
+    
+```
+
 
 Other issues are related to typing the property values when they can belong to multiple schemas. In this case,
 we don't type the values in the context file (and this could be done later).
@@ -139,5 +147,15 @@ cannot code
       "@id": "obo:RO_0000057",
       "@type": ["obo:OBI_0000968", "obo:IAO_0000010", "OBI_0001879"]
     },
+```
+
+
+- DATS.Dimension.isAbout
+
+```
+"isAbout": {
+      "@id":"obo:IAO_0000136",
+      "@type":["BFO_0000040","IAO_0000100"]
+    }
 ```
  

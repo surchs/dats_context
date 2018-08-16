@@ -14,8 +14,6 @@
     "description": {
       "@id": "obo:IAO_0000300"
     },
-    "types": "obo:TODO",
-    "datatypes" : "obo:TODO",
     "values" : "obo:IAO_0000027",
     "unit" : {
       "@id": "obo:IAO_0000039",
@@ -25,9 +23,6 @@
       "@id":"obo:BFO_0000050",
       "@type": "obo:IAO_0000100"
     },
-    "isAbout": {
-      "@id":"obo:IAO_0000136",
-      "@type":["BFO_0000040","IAO_0000100"]
-    }
+    "isAbout": "obo:IAO_0000136"
   }
 }
