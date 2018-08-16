@@ -1,7 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "BiologicalEntity": "sdo:Thing",
+    "CategoryValuesPair": "sdo:PropertyValue",
     "category": {
       "@id": "sdo:value",
       "@type": "sdo:Text"

@@ -1,0 +1,6 @@
+{
+  "@context": {
+    "obo": "http://purl.obolibrary.org/obo/",
+    "TaxonomicInformation": "obo:NCIT_C17469"
+  }
+}
