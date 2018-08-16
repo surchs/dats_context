@@ -159,3 +159,11 @@ cannot code
     }
 ```
  
+ - DATS.Material
+ 
+ ```
+"involvedInBiologicalEntity" : {
+      "@id": "obo:RO_0002331" ,
+      "@type" : ["GO_0008150","GO_0005575","GO_0003674","obo:DOID_4"]
+    },
+```
