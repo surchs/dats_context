@@ -22,11 +22,6 @@
     },
     "affiliations":
     {
-      "@id": "obo:RO_0001901",
-      "@type":"obo:OBI_0000245"
-    },
-    "affiliations":
-    {
       "@id":"obo:IAO_0000303",
       "@type":"obo:OBI_0000245"
     } ,
