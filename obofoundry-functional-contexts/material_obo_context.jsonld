@@ -17,7 +17,7 @@
     },
     "roles": "obo:BFO_0000023", 
     "derivesFrom": {
-         "@id" : "obo:RO_0001000",
+         "@id" : "obo:RO_0003001",
         "@type" : "OBI_0100026"
     }, 
     "characteristics": {
