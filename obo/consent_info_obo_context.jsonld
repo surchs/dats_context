@@ -2,7 +2,7 @@
   "@context": {
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "Consent Information": "obo:IAO_0000619",
+    "Consent": "obo:IAO_0000619",
     "identifier": "obo:IAO_0000577",
     "name": "obo:IAO_0000590",
     "description": "obo:IAO_0000300",
