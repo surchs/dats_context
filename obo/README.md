@@ -84,6 +84,79 @@ The list of missing terms, which we will request to the relevant ontologies are:
     
 ```
 
+- In DATS.Treatment:
+
+```
+"performedBy" :
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    },
+"order" : "obo:TODO",
+```
+
+- DATS.StudyGroup
+
+```
+"size": {
+      "@id" : "obo:has_size",
+      "@type":"xsd:integer"
+    },
+    
+```
+
+- DATS.RelatedIdentifier
+
+```
+"relationType": {
+      "@id": "obo:TODO",
+      "@type": "obo:TODO"
+    }
+```
+
+- DATS.Publication
+
+```
+"licenses": {
+      "@id" : "obo:has_license",
+      "@type":  "swo:SWO_0000002"
+    }
+```
+
+- In DATS.License
+
+```
+"creators":
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    }
+```
+
+
+- DATS.DatasetDistribution
+
+```
+"conformsTo": {
+      "@id": "obo:TODO_conforms_to",
+      "@type": "obo:IAO_0000098"
+    },
+    "format": {
+      "@id": "obo:todo_format",
+      "@type": "obo:IAO_0000098"
+    }
+```
+
+- DATS.DataAnalysis
+
+```
+"performedBy" :
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    },
+```
+
 
 Other issues are related to typing the property values when they can belong to multiple schemas. In this case,
 we don't type the values in the context file (and this could be done later).
@@ -166,4 +239,91 @@ cannot code
       "@id": "obo:RO_0002331" ,
       "@type" : ["GO_0008150","GO_0005575","GO_0003674","obo:DOID_4"]
     },
+```
+
+- DATS.Treatment
+```
+"performedBy" :
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    },
+    
+  "input" : {
+      "@id":"obo:RO_0002233",
+      "@type" : ["OBI_0001879","BFO_0000040"]
+    },
+
+    "output" :  {
+      "@id":"obo:RO_0002234",
+      "@type" : ["OBI_0001879","BFO_0000040"]
+    },
+```   
+    
+
+- DATS.Study
+
+```
+"input" : {
+      "@id":"obo:RO_0002233",
+      "@type" : ["OBI_0001879","BFO_0000040","IAO_0000100"]
+    },
+
+    "output" :  {
+      "@id":"obo:RO_0002234",
+      "@type" : ["IAO_0000100","BFO_0000040"]
+    },
+
+
+"schedulesActivity" :{
+      "@id": "obo:BFO_0000067", "@type" : ["OBI_0600013","OBI_0000066","OBI_0200000"]
+    },
+    
+    "isAboutBiologicalEntity" : {
+      "@id": "obo:IAO_0000136" ,
+      "@type" : ["GO_0008150","GO_0005575","GO_0003674"]
+    }
+```
+
+- DATS.StudyGroup
+
+```
+"members" : {
+      "@id":"obo:RO_0002351",
+      "@type": ["BFO_0000040","IAO_0000100"]
+    }
+```
+
+
+- DATS.Publication
+
+```
+"acknowledges" : {
+      "@id": "obo:IAO:0000324",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606","obo:OBI_0001942","obo:OBI_0001636"]
+    }
+```
+
+- In DATS.License
+
+```
+"creators":
+    {
+      "@id" : "obo:TODO",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    }
+```
+
+- In DATS.Instrument
+
+```
+"isUsedBy" :         {
+      "@id" : "obo:OBI_0000295",
+      "@type":["obo:BFO_0000015","obo:OBI_0600013"]
+    },
+    
+     "manufacturer" : {
+      "@id" : "obo:OBI_0000835",
+      "@type":["obo:OBI_0000245","obo:NCBITaxon_9606"]
+    }
 ```

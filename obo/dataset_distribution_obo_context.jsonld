@@ -20,14 +20,6 @@
     "dates": {
       "@id": "obo:RO_0002537",
       "@type": "xsd:date"
-    },
-    "conformsTo": {
-      "@id": "obo:TODO_conforms_to",
-      "@type": "obo:IAO_0000098"
-    },
-    "format": {
-      "@id": "obo:todo_format",
-      "@type": "obo:IAO_0000098"
     }
   }
 }

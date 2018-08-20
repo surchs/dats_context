@@ -23,22 +23,10 @@
     "duration" : "obo:PATO_0001309",
     "location" : "obo:BFO_0000066",
     "keywords" : "obo:IAO_0000629",
-    "input" : {
-      "@id":"obo:RO_0002233",
-      "@type" : ["OBI_0001879","BFO_0000040","IAO_0000100"]
-    },
-
-    "output" :  {
-      "@id":"obo:RO_0002234",
-      "@type" : ["IAO_0000100","BFO_0000040"]
-    },
-
-    "schedulesActivity" :{
-      "@id": "obo:BFO_0000067", "@type" : ["OBI_0600013","OBI_0000066","OBI_0200000"]
-    },
-    "schedulesDataAcquisition" : {
-      "@id":"obo:BFO_0000067","@type" : "OBI_0600013"
-    },
+    "input":"obo:RO_0002233",
+    "output" : "obo:RO_0002234",
+    "schedulesActivity": "obo:BFO_0000067",
+    "schedulesDataAcquisition": "obo:BFO_0000067",
     "selectionCriteria" : "obo:IAO_0000055",
     "studyGroups" : {
       "@id":"obo:BFO_0000051",
@@ -46,10 +34,8 @@
     },
     "usesReagent" : {
       "@id":"obo:RO_0000057",
-      "@type" : "obo:OBI_0001879" },
-    "isAboutBiologicalEntity" : {
-      "@id": "obo:IAO_0000136" ,
-      "@type" : ["GO_0008150","GO_0005575","GO_0003674"]
-    }
+      "@type" : "obo:OBI_0001879"
+    },
+    "isAboutBiologicalEntity": "obo:IAO_0000136"
   }
 }
