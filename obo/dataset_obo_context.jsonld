@@ -28,6 +28,7 @@
       "@id": "obo:BFO_0000066",
       "@type": "obo:BFO_0000029"
     },
+    "types": "NCIT_C42645",
     "dimensions": {
       "@id": "obo:BFO_0000051",
       "@type": "obo:STATO_0000258"
