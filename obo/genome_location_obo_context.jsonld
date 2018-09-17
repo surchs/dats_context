@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@language": "en",
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "GenomeLocation": "",
+    "assembly": "obo:ERO_0000609",
+    "startPosition": "",
+    "endPosition": "",
+    "chromosome": "obo:GO_0005694",
+    "strand": ""
+  }
+}
+
+
