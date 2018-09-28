@@ -8,11 +8,8 @@
       "@id": "obo:IAO_0000577",
       "@type": "@id"
     },
-    "name": {
-      "@id": "obo:IAO_0000590"
-    },
-    "description": {
-      "@id": "obo:IAO_0000300"
-    }
+    "name": "obo:IAO_0000590",
+    "description": "obo:IAO_0000300",
+    "diseaseStatus": "obo:NCIT_C93554"
   }
 }
