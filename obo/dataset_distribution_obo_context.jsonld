@@ -5,6 +5,8 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "swo": "http://www.ebi.ac.uk/swo/",
     "identifier": "obo:IAO_0000577",
+    "alternateIdentifiers": "obo:IAO_0000577",
+    "relatedIdentifiers": "obo:IAO_0000577",
     "name": {
       "@id": "obo:IAO_0000590"
     },

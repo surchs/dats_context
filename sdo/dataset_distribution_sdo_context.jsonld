@@ -6,6 +6,8 @@
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
     },
+    "alternateIdentifiers": "sdo:identifier",
+    "relatedIdentifiers": "sdo:identifier",
     "title": {
       "@id": "sdo:name",
       "@type": "sdo:Text"
