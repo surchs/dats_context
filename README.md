@@ -45,3 +45,6 @@ or
    ...
 ```
 
+## License
+
+These context files are distributed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
