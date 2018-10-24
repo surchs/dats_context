@@ -18,11 +18,11 @@
     "version": "sdo:version"
   },
   "startDate": {
-    "id": "sdo:startTime",
+    "@id": "sdo:startTime",
     "@type": "sdo:DateTime"
   },
   "endDate": {
-    "id": "sdo:endTime",
+    "@id": "sdo:endTime",
     "@type": "sdo:DateTime"
   }
 }
