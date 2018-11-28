@@ -11,6 +11,7 @@
     "name": {
       "@id": "obo:IAO_0000590"
     },
+    "abbreviation": "obo:IAO_0000605",
     "description": {
       "@id": "obo:IAO_0000300"
     },
