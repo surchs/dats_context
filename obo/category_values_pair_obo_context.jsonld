@@ -1,6 +1,7 @@
 {
   "@context": {
     "obo": "http://purl.obolibrary.org/obo/",
+    "sdo": "http://schema.org/",
     "CategoryValuesPair": "sdo:PropertyValue",
     "category": "obo:OBI_0000963"
   }
