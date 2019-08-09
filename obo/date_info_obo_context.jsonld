@@ -1,12 +1,12 @@
 {
  "@context": {
     "obo": "http://purl.obolibrary.org/obo/",
-    "Date": "obo:",
+    "DateInfi": "obo:STATO_0000093",
     "date": {
-        "@id": "obo:"
+        "@id": "obo:STATO_0000093"
     },
     "type":{
-        "@id": "obo:"
+        "@id": "obo:NCIT_C27993"
     }
    }
 }
