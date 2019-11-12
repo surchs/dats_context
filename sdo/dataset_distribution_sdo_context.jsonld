@@ -24,7 +24,7 @@
     "licenses": "sdo:license",
     "access": {
       "@id": "sdo:accessMode",
-      "@type": "Access"
+      "@type": "sdo:Access"
     },
     "size": {
         "@id": "sdo:contentSize",
