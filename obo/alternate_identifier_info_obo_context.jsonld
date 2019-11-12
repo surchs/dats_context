@@ -2,7 +2,7 @@
   "@context": {
     "@language": "en",
     "obo": "http://purl.obolibrary.org/obo/",
-    "AlternateIdentifier": "obo:IAO_0000578",
+    "AlternateIdentifierInfo": "obo:IAO_0000578",
     "identifier": {
       "@id": "obo:IAO_0000577",
       "@type": "@id"

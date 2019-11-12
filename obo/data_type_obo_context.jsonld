@@ -3,7 +3,7 @@
     "@language": "en",
     "obo": "http://purl.obolibrary.org/obo/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "DataType": "IAO_0000109",
+    "DataType": "obo:IAO_0000109",
     "information" : {
       "@id": "obo:IAO_0000219",
       "@type":"obo:IAO_0000109"
