@@ -11,7 +11,7 @@
         "@type": "sdo:Text"
     },
     "accessURL": {
-        "@id": "sdo:contentUrl",
+        "@id": "sdo:url",
         "@type": "sdo:Text"
     }
   }
