@@ -24,7 +24,7 @@
     },
     "distributions": {
       "@id": "sdo:distribution",
-      "@type": "sdo:DatasetDownload"
+      "@type": "sdo:DataDownload"
     },
     "primaryPublications": "sdo:citation",
     "citations": "sdo:citation",
