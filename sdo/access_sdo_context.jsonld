@@ -8,11 +8,11 @@
     },
     "landingPage": {
         "@id": "sdo:url",
-        "@type": "sdo:URL"
+        "@type": "sdo:Text"
     },
     "accessURL": {
         "@id": "sdo:contentUrl",
-        "@type": "sdo:URL"
+        "@type": "sdo:Text"
     }
   }
 }

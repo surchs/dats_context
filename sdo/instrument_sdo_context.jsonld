@@ -1,7 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "BiologicalEntity": "sdo:Thing",
+    "Instrument": "sdo:Product",
      "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"

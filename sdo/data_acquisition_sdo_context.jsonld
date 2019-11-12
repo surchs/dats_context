@@ -1,7 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "DataAcquisition": "sdo:Action",
+    "DataAcquisition": "sdo:CreateAction",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
