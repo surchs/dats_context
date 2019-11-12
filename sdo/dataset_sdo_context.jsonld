@@ -20,11 +20,11 @@
     "spatialCoverage": "sdo:spatialCoverage",
     "storedIn": {
         "@id": "sdo:includedInDataCatalog",
-        "@type": "DataRepository"
+        "@type": "sdo:DataCatalog"
     },
     "distributions": {
       "@id": "sdo:distribution",
-      "@type": "DatasetDistribution"
+      "@type": "sdo:DatasetDownload"
     },
     "primaryPublications": "sdo:citation",
     "citations": "sdo:citation",
@@ -37,7 +37,7 @@
     "isAbout": "sdo:about",
     "hasPart": {
         "@id": "sdo:hasPart",
-        "@type": "Dataset"
+        "@type": "sdo:Dataset"
     },
     "acknowledges": "sdo:funder",
     "dimensions": "sdo:variableMeasured"
