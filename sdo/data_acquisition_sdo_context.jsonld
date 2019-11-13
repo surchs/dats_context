@@ -1,5 +1,5 @@
 {
-  "@context": {
+"@context": {
     "sdo": "https://schema.org/",
     "DataAcquisition": "sdo:CreateAction",
     "identifier": {
@@ -14,15 +14,15 @@
       "@id": "sdo:description",
       "@type": "sdo:Text"
     },
-    "licenses": "sdo:license",
-    "version": "sdo:version"
-  },
-  "startDate": {
-    "@id": "sdo:startTime",
-    "@type": "sdo:DateTime"
-  },
-  "endDate": {
-    "@id": "sdo:endTime",
-    "@type": "sdo:DateTime"
-  }
-}
+   "startDate": {
+        "@id": "sdo:startTime",
+        "@type": "sdo:DateTime"
+    },
+    "endDate": {
+         "@id": "sdo:endTime",
+         "@type": "sdo:DateTime"
+    },
+    "location": "sdo:location",
+    "performedBy": "sdo:agent"
+    }
+ }
