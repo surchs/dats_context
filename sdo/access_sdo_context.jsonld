@@ -1,7 +1,7 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "Access:" : "sdo:EntryPoint",
+    "Access" : "sdo:EntryPoint",
     "identifier": {
       "@id": "sdo:identifier",
       "@type": "sdo:Text"
