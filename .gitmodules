@@ -1,3 +1,6 @@
 [submodule "schema"]
 	path = schema
 	url = git@github.com:CONP-PCNO/schema.git
+[submodule "dats_context"]
+	path = dats_context
+	url = git@github.com:datatagsuite/context.git
